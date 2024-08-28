@@ -1,0 +1,9 @@
+Write an automation script that access the Yahoo Finance webpage (https://finance.yahoo.com/) and creates an account, using only:
+
+* Robot Framework
+* Page Object Model
+
+Post your code in a public Github repo and include the link in an email to Rene (rene.de.leon@quest.com)
+
+Due time: 3 hours
+ 
